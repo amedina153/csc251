@@ -10,7 +10,7 @@ Lab #: 6
 int main (void)
 {
 	int firstArray [5] = {0,2,4,6,8}, secondArray[5] = {1,3,5,7,9};
-	int i, temp;
+	int i, temp, choose;
 	printf("Before Swap\n");
 
 	printf("firstArray[0] = %d, secondArray[0] = %d\n", firstArray[0], secondArray[0]);
